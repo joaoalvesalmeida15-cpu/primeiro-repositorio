@@ -3,6 +3,14 @@ body {
     color:black
 }
 
+header {
+    border: SOLID 2PX  white;
+    padding: 20PX;
+    font-size: 32 px;
+    color:aqua:
+    margin:0px:
+}
+
 h1 {
     font-size: 30px;
 }
