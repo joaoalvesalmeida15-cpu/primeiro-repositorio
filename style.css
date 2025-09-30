@@ -10,7 +10,17 @@ header {
     color:aqua:
     margin:0px:
 }
+section{
+    background-color: #0e0685;
+    padding-bottom: 80px;
+    padding-bottom: 80px;
+    display-content:center;
+    justify-content: center;
 
+}
+.chamada-texto{
+    margin-right: 5%;
+}
 h1 {
     font-size: 30px;
 }
